@@ -1,0 +1,23 @@
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+    color: chocolate;
+    background: springgreen;
+}
+.name_of_person,#result_person_name,#result_person_accuracy
+{
+    color:navy;
+}
+#camera
+{
+    border: 2px dashed maroon;
+    width: 350px;
+    height: 300px;
+}
+body
+{
+    background: #ff006a;
+    text-shadow: purple;
+    color: silver;
+}
